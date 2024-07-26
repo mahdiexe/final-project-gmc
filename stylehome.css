@@ -1,0 +1,30 @@
+*{margin: 0 auto;}
+ 
+
+h2{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:auto;
+    margin-top: 5vh;
+}
+
+
+h3{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:auto;
+    margin-top: 5vh;
+}
+
+/* Espacement de 1.5 fois la taille de la police */
+p {
+    line-height: 2;
+    font-size: 25px;
+    margin: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{margin: 0;
+    padding: 0;
+    }
+    body {
+        font-family: Roboto, sans-serif;
+      }
+      
+    header{width: 95%;
+        
+        margin:auto;
+        margin-top: 100px;
+        position: sticky;
+
+/*display: flex;
+justify-content: center;
+align-items: center;*/
+}
+h1{
+    text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman', Times, serif;
+margin:auto;
+margin-top: 5vh;
+color: rgb(61, 131, 223);
+
+}
+nav{
+    width: 20%;
+    height: 50vh;
+    margin-left: 2.5%;
+    margin-top: 15px;
+
+
+}
+ul{list-style: none;
+}
+li{
+margin-left: 20px;
+margin-top: 10px;}
+a{
+color: rgb(206, 181, 72);
+text-decoration: none;}
+
+li a:hover{
+    color: rgb(18, 18, 16);
+    font-size: 20px;
+    border-top: 2px solid salmon;
+    border-bottom: 2px solid salmon;
+    border-radius:10px ;
+    background-color: antiquewhite;
+    cursor: crosshair;
+}
+a:visited{
+ color:black;   
+}
+main{display: flex;}
+iframe{ border: 2px solid rgba(0, 0, 65, 0.548);
+    border-radius: 10px;
+    width: 70%;
+    height: 100vh;
+    margin-left: 5%;
+    margin-top: 15px;
+
+}
+label{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+width: 150px;
+display:inline-block;}
